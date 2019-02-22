@@ -1,3 +1,6 @@
 [submodule "libs/QJoysticks"]
 	path = libs/QJoysticks
 	url = https://github.com/franciscoquintana/QJoysticks
+[submodule "Controller/htest"]
+	path = Controller/htest
+	url = https://github.com/franciscoquintana/htest
