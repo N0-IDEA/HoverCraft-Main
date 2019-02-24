@@ -4,3 +4,6 @@
 [submodule "Controller/htest"]
 	path = Controller/htest
 	url = https://github.com/franciscoquintana/htest
+[submodule "Controller/HoverCraft-ControllerQt"]
+	path = Controller/HoverCraft-ControllerQt
+	url = https://github.com/N0-IDEA/HoverCraft-ControllerQt
